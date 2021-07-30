@@ -38,4 +38,4 @@ bash camphish.sh
 ```
 ### Note
 <p>CamHAck is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>CamHack is inspired by https://github.com/whitehathackerrajan/ Big thanks to @thelinuxchoice</p>
+<p>CamHack is made by https://github.com/whitehathackerrajan/ use only testing</p>
